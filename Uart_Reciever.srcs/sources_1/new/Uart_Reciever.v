@@ -1,6 +1,7 @@
 `timescale 1ns / 1ps
 
 
+// This constraints for this code is for boolean fpga board
 
 module Uart_Reciever(
 input clk, rx,rst, output reg [6:0]seg, output reg [3:0]an
