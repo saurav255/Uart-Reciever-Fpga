@@ -1,6 +1,6 @@
 # UART RECIEVER FOR FPGA
 
-![Project Logo](path_to_logo_image) <!-- Replace with your image link -->
+![Logo](./Images/Setup_Image.png)   <!-- Replace with your image link -->
 
 ## Overview
 
